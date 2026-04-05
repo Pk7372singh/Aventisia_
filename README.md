@@ -17,6 +17,8 @@ A modern knowledge base management application built with React and Tailwind CSS
 <img width="1903" height="916" alt="Screenshot 2026-04-03 203559" src="https://github.com/user-attachments/assets/142f030f-7996-4b9b-aaa6-af14<img width="467" height="781" alt="Screenshot 2026-04-05 150740" src="https://github.com/user-attachments/assets/8381c9de-a201-4297-acce-e116e1725c7c" />
 ad3767e6" />
 <img width="1250" height="808" alt="Screenshot 2026-04-05 150700" src="https://github.com/user-attachments/assets/3b81bec2-69d5-4785-83d0-1cc0a561939f" />
+<img width="467" height="781" alt="Screenshot 2026-04-05 150740" src="https://github.com/user-attachments/assets/edc83c48-1723-4a0c-bb28-7fe6daef5632" />
+<img width="467" height="781" alt="Screenshot 2026-04-05 150740" src="https://github.com/user-attachments/assets/eb2c2b1c-ab23-41b6-8621-0386731aee2a" />
 
 - React 18
 - Tailwind CSS
